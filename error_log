@@ -1,0 +1,136 @@
+[29-Apr-2022 19:28:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Personaliza::prueba_escritorio() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[29-Apr-2022 19:29:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Personaliza::prueba_escritorio() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[29-Apr-2022 19:29:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Personaliza::prueba_escritorio() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[27-May-2022 22:32:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[29-May-2022 00:06:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[04-Jun-2022 11:52:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[04-Jun-2022 16:57:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method Neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[27-Jun-2022 19:59:06 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[27-Jun-2022 19:59:06 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[27-Jun-2022 19:59:18 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[27-Jun-2022 19:59:18 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[27-Jun-2022 19:59:34 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[27-Jun-2022 19:59:34 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[04-Jul-2022 09:33:24 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[04-Jul-2022 09:33:24 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[07-Jul-2022 13:57:22 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[07-Jul-2022 16:41:32 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[07-Jul-2022 16:41:32 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[07-Jul-2022 16:41:59 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[07-Jul-2022 16:41:59 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[07-Jul-2022 16:43:22 America/Boise] PHP Warning:  Undefined array key "nombre" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 3
+[07-Jul-2022 16:43:22 America/Boise] PHP Warning:  Undefined array key "email" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 4
+[07-Jul-2022 16:43:22 America/Boise] PHP Warning:  Undefined array key "telefono" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 5
+[07-Jul-2022 16:43:22 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[07-Jul-2022 16:43:22 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[07-Jul-2022 22:42:34 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[07-Jul-2022 22:42:34 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[07-Jul-2022 22:42:35 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[07-Jul-2022 22:42:35 America/Boise] PHP Warning:  Undefined array key "mensaje" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 7
+[08-Jul-2022 16:58:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/ghxumdmy/public_html/yuntasproducciones/views/catalogo/enviar_mail.php:14) in /home3/ghxumdmy/public_html/yuntasproducciones/views/catalogo/enviar_mail.php on line 15
+[10-Jul-2022 11:42:07 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[10-Jul-2022 11:48:32 America/Boise] PHP Parse error:  syntax error, unexpected identifier "URL", expecting "," or ";" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php on line 187
+[10-Jul-2022 11:48:37 America/Boise] PHP Parse error:  syntax error, unexpected identifier "URL", expecting "," or ";" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php on line 187
+[10-Jul-2022 11:48:43 America/Boise] PHP Parse error:  syntax error, unexpected identifier "URL", expecting "," or ";" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php on line 187
+[10-Jul-2022 11:49:25 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "http://yuntasproducciones.com/" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php:187
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php(187): constant('http://yuntaspr...')
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/controllers/personaliza.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(51): Personaliza->mostrarVista()
+#3 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php on line 187
+[10-Jul-2022 11:49:31 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "http://yuntasproducciones.com/" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php:187
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php(187): constant('http://yuntaspr...')
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/controllers/personaliza.php(21): require_once('/home3/ghxumdmy...')
+#2 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(51): Personaliza->mostrarVista()
+#3 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#4 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#5 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/index.php on line 187
+[10-Jul-2022 13:46:10 America/Boise] PHP Warning:  Undefined variable $asunto in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 8
+[10-Jul-2022 13:46:49 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[10-Jul-2022 13:47:11 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[10-Jul-2022 13:48:19 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[12-Jul-2022 21:27:48 America/Boise] PHP Warning:  Undefined array key "asunto" in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_prueba.php on line 6
+[14-Jul-2022 13:56:30 America/Boise] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php:9
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/controllers/enviar_mail2.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(51): enviar_mail2->mostrarVista()
+#2 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php on line 9
+[14-Jul-2022 13:56:43 America/Boise] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php:9
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/controllers/enviar_mail2.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(51): enviar_mail2->mostrarVista()
+#2 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php on line 9
+[14-Jul-2022 13:56:47 America/Boise] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php:9
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/controllers/enviar_mail2.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(51): enviar_mail2->mostrarVista()
+#2 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php on line 9
+[14-Jul-2022 14:02:34 America/Boise] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php:9
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/controllers/enviar_mail2.php(21): require_once()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(51): enviar_mail2->mostrarVista()
+#2 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#3 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#4 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/views/personaliza/enviar_mail2.php on line 9
+[27-Jul-2022 20:35:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method letreros_neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
+[18-Aug-2022 21:13:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method letreros_neon_led::public() in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php:45
+Stack trace:
+#0 /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php(10): Ruteador->iniciar()
+#1 /home3/ghxumdmy/public_html/yuntasproducciones/index.php(12): Ruteador->__construct()
+#2 {main}
+  thrown in /home3/ghxumdmy/public_html/yuntasproducciones/class/ruteador.php on line 45
