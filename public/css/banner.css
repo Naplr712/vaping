@@ -1,0 +1,153 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container_carrusel{
+    width: 100%;
+    position: relative;
+}
+.mySlides{
+    display: none;
+}
+.mySlides img{
+    width: 100%;
+    
+}
+
+.prev,
+.next{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6 ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    border:  solid #fff 2px;
+}
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.prev:hover,
+.next:hover{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.elements{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.quadrate{
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    margin: 0 20px;
+    background-color: #717171;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    border-radius: 50%;
+}
+.active, .quadrate:hover{
+    background-color: #3a3939;
+}
+
+.nosotros{
+    height: 70px;
+    text-align: center;
+ 
+}
+
+.nosotros h2{
+   color: black;
+   font-size: 30px;
+   font-weight: bold;
+   font-family: Arial, sans-serif;
+ 
+}
+
+.container_nosotros {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 450px;
+}
+
+.texto {
+    flex: 1;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    left: 180px;
+    margin-left: 30px;		
+    max-width: 600px;
+     
+}
+
+.container_nosotros img {
+    max-width: 310px;
+    margin-left: 200px;
+    height: auto;
+    margin: 55px;
+    border-radius: 20px;
+     box-shadow: 0px 3px 5px rgba(15,15,15,  .5);
+}
+
+
+@media screen and (max-width:900px) {
+    .container{
+        width: 100%;
+    }
+    
+    .quadrate{
+    
+        height: 20px;
+        width: 20px;
+       
+    }
+    .container_nosotros{
+        height: 700px;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:500px) {
+    .container{
+        width: 100%;
+    }
+    .quadrate{
+    
+        height: 15px;
+        width: 15px;
+       
+    }
+   
+    .prev,
+    .next{
+        padding: 5px;
+    }
+   
+        .container_nosotros {
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+        }
+
+        .texto {
+            text-align: center;
+                    direction: ltr;
+        }
+    
+}
